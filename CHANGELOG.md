@@ -1,6 +1,31 @@
 Change Log
 ==========
 
+Version 1.7.0 *(2016-10-26)*
+----------------------------
+
+ * New: Support for specifying the timezone
+ * New languages: Serbian and Russian!
+
+Version 1.6.5 *(2016-02-08)*
+----------------------------
+
+ * New: Support for arabic numbers
+ * New: Performance improvement in CalendarCellView
+ * New: Support for completely custom cell views
+ * New: Support for a custom "highlighted" color
+ * New language: Polish!
+
+Version 1.6.4 *(2015-09-01)*
+----------------------------
+
+ * Convert build to gradle to hopefully fix another support-library issue.
+
+Version 1.6.3 *(2015-08-18)*
+----------------------------
+
+ * Fix: compatibility with appcompat 23
+
 Version 1.6.2 *(2015-04-28)*
 ----------------------------
 
